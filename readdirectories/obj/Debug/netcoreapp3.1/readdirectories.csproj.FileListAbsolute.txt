@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\bin\Debug\netcoreapp3.1\readdirectories.exe
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\bin\Debug\netcoreapp3.1\readdirectories.deps.json
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\bin\Debug\netcoreapp3.1\readdirectories.runtimeconfig.json
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\bin\Debug\netcoreapp3.1\readdirectories.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\bin\Debug\netcoreapp3.1\readdirectories.dll
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\bin\Debug\netcoreapp3.1\readdirectories.pdb
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\obj\Debug\netcoreapp3.1\readdirectories.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\obj\Debug\netcoreapp3.1\readdirectories.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\obj\Debug\netcoreapp3.1\readdirectories.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\obj\Debug\netcoreapp3.1\readdirectories.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\obj\Debug\netcoreapp3.1\readdirectories.dll
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\obj\Debug\netcoreapp3.1\readdirectories.pdb
+C:\Users\lenovo\source\repos\readdirectories\readdirectories\obj\Debug\netcoreapp3.1\readdirectories.genruntimeconfig.cache
